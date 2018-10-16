@@ -22,7 +22,7 @@ Je kunt alleen drankjes bestellen die op de kaart staan, dus je moet invoercontr
 
  
 
-Uitbreiding met bitterballen bestellen
+## Uitbreiding met bitterballen bestellen
 
 Breid de JS applicatie uit zodat je ook schalen met bitterbalen kunt bestellen. Het proces bitterballen bestellen werkt als volgt:
 
@@ -44,9 +44,10 @@ Als je bij punt 3 een ander getal dan 8 of 16 invoert dan krijg je de melding 'U
 
 Naast de functionele eisen gaan we ook letten op het volgende:
 
-Opdracht ingeleverd op github
-Naamgeving van variabelen en functienamen is duidelijk en self explaining
-Code is netjes en correct uitgelijnd
-Er is commentaar toegevoegd op stukjes code die lastigere te begrijpen zijn. In ieder geval geef je in het kort per functie aan wat deze doet
-Zorg voor een mooi gestylde html pagina en de opmaak regel je uiteraard in de css
-Je bepaalt zelf de prijzen voor de drankjes en de schalen met bitterballen
+- Opdracht ingeleverd op github
+- Minimaal 1 x per dag gecommit
+- Naamgeving van variabelen en functienamen is duidelijk en self explaining
+- Code is netjes en correct uitgelijnd
+- Er is commentaar toegevoegd op stukjes code die lastigere te begrijpen zijn. In ieder geval geef je in het kort per functie aan wat deze doet
+- Zorg voor een mooi gestylde html pagina en de opmaak regel je uiteraard in de css
+- Je bepaalt zelf de prijzen voor de drankjes en de schalen met bitterballen
