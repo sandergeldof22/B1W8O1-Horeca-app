@@ -27,13 +27,9 @@ Je kunt alleen drankjes bestellen die op de kaart staan, dus je moet invoercontr
 Breid de JS applicatie uit zodat je ook schalen met bitterbalen kunt bestellen. Het proces bitterballen bestellen werkt als volgt:
 
 1. Je krijgt de vraag 'Welke bestelling wilt u toevoegen?'
-
 2. Je type het woord 'snack' in.
-
 3. Je krijgt de vraag 'Hoeveel bitterballen wilt u toevoegen (8 of 16)?'
-
 4. Je krijgt de vraag 'Hoeveel bitterbalschalen van aantal stuks wilt u bestellen?' Bij aantal komt te staan 8 of 16 afhankelijk van wat je invoert
-
 5. Daarna ga je automatisch weer terug naar stap 1. Kortom je kunt dan weer een nieuwe bestelling invoeren.
 
  
