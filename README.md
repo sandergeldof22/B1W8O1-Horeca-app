@@ -8,7 +8,7 @@ Je gaat eerst aan de slag met alleen de drankjes, als de JS applicatie goed werk
 
  
 
-De bestellingen worden via een [b]prompt[/b] ingevoerd. Het proces van bestellingen invoeren werkt als volgt:
+De bestellingen worden via een __prompt__ ingevoerd. Het proces van bestellingen invoeren werkt als volgt:
 
 Je krijgt de vraag 'Welke bestelling wilt u toevoegen?'
 Je kunt nu opgeven welk drankje je wilt bestellen. Je kunt intypen 'fris', 'bier' of 'wijn'
