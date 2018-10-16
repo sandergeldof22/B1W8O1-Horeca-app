@@ -40,7 +40,7 @@ Als je bij punt 3 een ander getal dan 8 of 16 invoert dan krijg je de melding 'U
 
 Naast de functionele eisen gaan we ook letten op het volgende:
 
-- Opdracht ingeleverd op github
+- Opdracht ingeleverd op GitHub
 - Minimaal 1 x per dag gecommit
 - Naamgeving van variabelen en functienamen is duidelijk en self explaining
 - Code is netjes en correct uitgelijnd
